@@ -3,11 +3,7 @@
 The place to promote your Bitcoin projects. Where thinkers and makers team up to shape the future of a Bitcoin-based economy. Pitch your Bitcoin-only projects via GitHub Repositories which will then be hosted on this website to attract committed fellows. If you want to become a supporting fellow, browse through the listed  projects Browse through a [live demo](https://proud-alligator.cloudvent.net/).
 Increase the web presence of your brand with this configurable theme.
 
-![Hydra template screenshot](images/_screenshot.png)
-
-Hydra was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
-
-Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Academy](https://learn.cloudcannon.com/).
+The website is based on Hydra Template by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
 
 [![Deploy to CloudCannon](https://buttons.cloudcannon.com/deploy.svg)](https://app.cloudcannon.com/register#sites/connect/github/CloudCannon/hydra-jekyll-template)
 

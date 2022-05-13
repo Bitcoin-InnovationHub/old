@@ -24,26 +24,26 @@ You have to create your own GitHub repository for each individual project. Other
 3. Create a new file called YYYY-MM-DD-NAME-OF-POST.md, replacing YYYY-MM-DD with the date of your post and NAME-OF-POST with the name of your post.
 4. Add the following YAML frontmatter to the top of the file, replacing POST TITLE with the post's title, YYYY-MM-DD hh:mm:ss -0000 with the date and time for the      post, and CATEGORY-1 and CATEGORY-2 with as many categories you want for your post.
 
-5. `layout: post
+`layout: post
     title: "POST TITLE"
     date: YYYY-MM-DD hh:mm:ss -0000
     categories: CATEGORY-1 CATEGORY-2`
 
-6. Below the frontmatter, add content for your post.
+5. Below the frontmatter, add content for your post.
 
-7. At the bottom of the page, type a short, meaningful commit message that describes the change you made to the file. You can attribute the commit to more than one     author in the commit message.
+6. At the bottom of the page, type a short, meaningful commit message that describes the change you made to the file. You can attribute the commit to more than one     author in the commit message.
 
-8. Below the commit message fields, decide whether to add your commit to the current branch or to a new branch. If your current branch is the default branch, you should choose to create a new branch for your commit and then create a pull request. For more information, see "[Creating a new pull request](https://docs.github.com/en/articles/creating-a-pull-request)".
+7. Below the commit message fields, decide whether to add your commit to the current branch or to a new branch. If your current branch is the default branch, you should choose to create a new branch for your commit and then create a pull request. For more information, see "[Creating a new pull request](https://docs.github.com/en/articles/creating-a-pull-request)".
  
-9. Click Propose file change
+8. Click Propose file change
 
-10. Create a pull request for your proposed changes.
+9. Create a pull request for your proposed changes.
 
-11. In the "Pull Requests" list, click the pull request you would like to merge.
+10. In the "Pull Requests" list, click the pull request you would like to merge.
   
-12. Click Merge pull request. For more information, see "[Merging a pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/merging-a-pull-request)".
+11. Click Merge pull request. For more information, see "[Merging a pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/merging-a-pull-request)".
 
-13. If prompted, type a commit message, or accept the default message.
+12. If prompted, type a commit message, or accept the default message.
 
-14. Click Confirm merge.
-15. Optionally, delete the branch. For more information, see "[Creating and deleting branches within your repository](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository)".
+13. Click Confirm merge.
+14. Optionally, delete the branch. For more information, see "[Creating and deleting branches within your repository](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository)".

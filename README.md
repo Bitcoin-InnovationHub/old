@@ -1,6 +1,6 @@
-# Hydra
+# Bitcoin InnovationHub
 
-Marketing site template for Jekyll. Browse through a [live demo](https://proud-alligator.cloudvent.net/).
+The place to promote your Bitcoin projects. Where thinkers and makers team up to shape the future of a Bitcoin-based economy. Pitch your Bitcoin-only projects via GitHub Repositories which will then be hosted on this website to attract committed fellows. If you want to become a supporting fellow, browse through the listed  projects Browse through a [live demo](https://proud-alligator.cloudvent.net/).
 Increase the web presence of your brand with this configurable theme.
 
 ![Hydra template screenshot](images/_screenshot.png)
@@ -13,7 +13,7 @@ Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Ac
 
 ## Features
 
-* Contact form
+* Open Source content
 * Pre-built pages
 * Pre-styled components
 * Blog with pagination
@@ -26,15 +26,16 @@ Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Ac
 * SEO tags
 * Google Analytics
 
-## Setup
+## Promote your ideas
 
 1. Add your site and author details in `_config.yml`.
 2. Add your Google Analytics and Disqus keys to `_config.yml`.
 3. Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/) or Jekyll locally).
 
-## Develop
+## Develop with others
 
-Hydra was built with [Jekyll](http://jekyllrb.com/) version 3.3.1, but should support newer versions as well.
+Bitcoin InnovationHub is a community project. 
+Feel free to get push the development of this website by commiting changes and creating a Pull Request afterwards.
 
 Install the dependencies with [Bundler](http://bundler.io/):
 
@@ -50,7 +51,7 @@ $ bundle exec jekyll serve
 
 ## Editing
 
-Hydra is already optimised for adding, updating and removing pages, staff, advice, company details and footer elements in CloudCannon.
+The Hydra Template is already optimised for adding, updating and removing pages, staff, advice, company details and footer elements in CloudCannon.
 
 ### Posts
 

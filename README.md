@@ -32,18 +32,6 @@ The website is based on Hydra Template by [CloudCannon](http://cloudcannon.com/)
 Bitcoin InnovationHub is a community project. 
 Feel free to get push the development of this website by commiting changes and creating a Pull Request afterwards.
 
-Install the dependencies with [Bundler](http://bundler.io/):
-
-~~~bash
-$ bundle install
-~~~
-
-Run `jekyll` commands through Bundler to ensure you're using the right versions:
-
-~~~bash
-$ bundle exec jekyll serve
-~~~
-
 ## Editing
 
 The Hydra Template is already optimised for adding, updating and removing pages, staff, advice, company details and footer elements in CloudCannon.

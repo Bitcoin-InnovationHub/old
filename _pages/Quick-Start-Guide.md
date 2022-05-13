@@ -8,76 +8,42 @@ redirect_from:
 toc: true
 ---
 
-Minimal Mistakes has been developed as a [Gem-based theme](http://jekyllrb.com/docs/themes/) for easier use, and 100% compatible with GitHub Pages when used as a remote theme.
+Contribute projects to the Bitcoin InnovationHub
 
-**If you enjoy this theme, please consider [sponsoring me](https://github.com/sponsors/mmistakes) to continue developing and maintaining it.**
+Projects will be implemented in this website by adding them to this GitHub Repository.
 
-[!["Buy Me A Coffee"](https://user-images.githubusercontent.com/1376749/120938564-50c59780-c6e1-11eb-814f-22a0399623c5.png)](https://www.buymeacoffee.com/mmistakes)
 
-[![Support via PayPal](https://cdn.jsdelivr.net/gh/twolfson/paypal-github-button@1.0.0/dist/button.svg)](https://www.paypal.me/mmistakes)
-{: style="margin-top: 0.5em;"}
 
-## Installing the theme
+## Contribute a project
 
-If you're running Jekyll v3.7+ and self-hosting you can quickly install the theme as a Ruby gem.
+You have to create your own GitHub repository for each individual project. Otherwise you can fork this repository, present your idea and create a Pull Request afterwards.
 
-[^structure]: See [**Structure** page]({{ "/docs/structure/" | relative_url }}) for a list of theme files and what they do.
 
-**ProTip:** Be sure to remove `/docs` and `/test` if you forked Minimal Mistakes. These folders contain documentation and test pages for the theme and you probably don't want them littering up your repo.
-{: .notice--info}
+1. On GitHub, navigate to this site's repository.
+2. Navigate to the _posts directory.
+3. Create a new file called YYYY-MM-DD-NAME-OF-POST.md, replacing YYYY-MM-DD with the date of your post and NAME-OF-POST with the name of your post.
+4. Add the following YAML frontmatter to the top of the file, replacing POST TITLE with the post's title, YYYY-MM-DD hh:mm:ss -0000 with the date and time for the      post, and CATEGORY-1 and CATEGORY-2 with as many categories you want for your post.
 
-**Note:** The theme uses the [jekyll-include-cache](https://github.com/benbalter/jekyll-include-cache) plugin which will need to be installed in your `Gemfile` and added to the `plugins` array of `_config.yml`. Otherwise you'll throw `Unknown tag 'include_cached'` errors at build.
-{: .notice--warning}
+5. `layout: post
+    title: "POST TITLE"
+    date: YYYY-MM-DD hh:mm:ss -0000
+    categories: CATEGORY-1 CATEGORY-2`
 
-### Gem-based method
+6. Below the frontmatter, add content for your post.
 
-With Gem-based themes, directories such as the `assets`, `_layouts`, `_includes`, and `_sass` are stored in the theme’s gem, hidden from your immediate view. This allows for easier installation and updating as you don't have to manage any of the theme files. 
+7. At the bottom of the page, type a short, meaningful commit message that describes the change you made to the file. You can attribute the commit to more than one     author in the commit message.
 
-To install as a Gem-based theme:
+8. Below the commit message fields, decide whether to add your commit to the current branch or to a new branch. If your current branch is the default branch, you should choose to create a new branch for your commit and then create a pull request. For more information, see "[Creating a new pull request](https://docs.github.com/en/articles/creating-a-pull-request)".
+ 
+9. Click Propose file change
 
-1. Add the following to your `Gemfile`:
+10. Create a pull request for your proposed changes.
 
-   ```ruby
-   gem "minimal-mistakes-jekyll"
-   ```
+11. In the "Pull Requests" list, click the pull request you would like to merge.
+  
+12. Click Merge pull request. For more information, see "[Merging a pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/merging-a-pull-request)".
 
-2. Fetch and update bundled gems by running the following [Bundler](https://bundler.io/) command:
+13. If prompted, type a commit message, or accept the default message.
 
-   ```bash
-   bundle
-   ```
-
-3. Set the `theme` in your project's Jekyll `_config.yml` file:
-
-   ```yaml
-   theme: minimal-mistakes-jekyll
-   ```
-
-To update the theme run `bundle update`.
-
-### Remote theme method
-
-Remote themes are similar to Gem-based themes, but do not require `Gemfile` changes or whitelisting making them ideal for sites hosted with GitHub Pages.
-
-To install as a remote theme:
-
-1. Create/replace the contents of your `Gemfile` with the following:
-
-   ```ruby
-   source "https://rubygems.org"
-
-   gem "github-pages", group: :jekyll_plugins
-   gem "jekyll-include-cache", group: :jekyll_plugins
-   ```
-
-2. Add `jekyll-include-cache` to the `plugins` array of your `_config.yml`.
-
-3. Fetch and update bundled gems by running the following [Bundler](https://bundler.io/) command:
-
-   ```bash
-   bundle
-   ```
-
-4. Add `remote_theme: "mmistakes/minimal-mistakes@4.24.0"` to your `_config.yml` file. Remove any other `theme:` or `remote_theme:` entry.
-
-You may also optionally specify a branch, [tag](https://github.com/mmistakes/minimal-mistakes/tags), or commit to use by appending an @ and the Git ref (e.g., `mmistakes/minimal-mistakes@4.9.0` or `mmistakes/minimal-mistakes@bbf3cbc5fd64a3e1885f3f99eb90ba92af84063d`). This is useful when rolling back to older versions of the theme.
+14. Click Confirm merge.
+15. Optionally, delete the branch. For more information, see "[Creating and deleting branches within your repository](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository)".

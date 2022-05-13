@@ -2,8 +2,8 @@
   link: /ressources/
   new_window: false
   highlight: false
-- name: Blog
-  link: /blog/
+- name: Projects
+  link: /projects/
   new_window: false
   highlight: false
 - name: About

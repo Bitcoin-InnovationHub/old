@@ -27,7 +27,7 @@ You have to create your own GitHub repository for each individual project. Other
 ```layout: post
 title: "POST TITLE"
 date: YYYY-MM-DD hh:mm:ss -0000
-`categories: CATEGORY-1 CATEGORY-2```
+categories: CATEGORY-1 CATEGORY-2```
 
 5. Below the frontmatter, add content for your post.
 

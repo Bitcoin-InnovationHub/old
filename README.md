@@ -1,7 +1,6 @@
 # Bitcoin InnovationHub
 
-The place to promote your Bitcoin projects. Where thinkers and makers team up to shape the future of a Bitcoin-based economy. Pitch your Bitcoin-only projects via GitHub Repositories which will then be hosted on this website to attract committed fellows. If you want to become a supporting fellow, browse through the listed  projects Browse through a [live demo](https://proud-alligator.cloudvent.net/).
-Increase the web presence of your brand with this configurable theme.
+The place to promote your Bitcoin projects. Where thinkers and makers team up to shape the future of a Bitcoin-based economy. Pitch your Bitcoin-only projects via GitHub Repositories which will then be hosted on this website to attract committed fellows. If you want to become a supporting fellow, browse through the listed  projects and contribute with your respective skill set.
 
 The website is based on Hydra Template by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
 

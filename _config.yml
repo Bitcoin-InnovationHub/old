@@ -2,7 +2,7 @@
 # Site
 
 title: Bitcoin InnovationHub
-url: "https://proud-alligator.cloudvent.net"
+url: "https://bitcoin-innovationhub.github.io/home/"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -14,7 +14,7 @@ description: Shape the Hyperbitcoinization today
 author:
   name:
   email:
-  twitter: # twitter username without the @ symbol
+  twitter: BInnovationHub
 social:
   name: Bitcoin InnovationHub
   links:
